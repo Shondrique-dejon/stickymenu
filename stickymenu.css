@@ -1,0 +1,30 @@
+header{
+  background-color:red;
+  min-height: 10vh;
+
+  position: sticky;
+  top: 0px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin:auto;
+}
+.s1{
+    background-color: aqua;
+    padding: 15%;
+}
+.s2{
+    background-color: aquamarine;
+    padding: 15%;
+}
+.s3{
+    background-color: blueviolet;
+    padding: 15%;
+}
+.s4{
+    background-color: brown;
+    padding:15%;
+}
